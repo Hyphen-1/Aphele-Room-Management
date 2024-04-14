@@ -1,0 +1,17 @@
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\bin\Debug\net6.0-windows\Aphelele.exe
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\bin\Debug\net6.0-windows\Aphelele.deps.json
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\bin\Debug\net6.0-windows\Aphelele.runtimeconfig.json
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\bin\Debug\net6.0-windows\Aphelele.dll
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\bin\Debug\net6.0-windows\Aphelele.pdb
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.csproj.AssemblyReference.cache
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.Form1.resources
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.csproj.GenerateResource.cache
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.AssemblyInfoInputs.cache
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.AssemblyInfo.cs
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.csproj.CoreCompileInputs.cache
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.dll
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\refint\Aphelele.dll
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.pdb
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\Aphelele.genruntimeconfig.cache
+C:\Users\gwijio\OneDrive - Reed Elsevier Group ICO Reed Elsevier Inc\Desktop\Aphelele\Aphelele\obj\Debug\net6.0-windows\ref\Aphelele.dll
